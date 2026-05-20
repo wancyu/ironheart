@@ -1,4 +1,7 @@
-![present video](videos/present.gif)
+<p align="center">
+    <img src="videos/present.gif" width=50% height=50%><br/>
+    <em>"Heart of Iron" demonstration</em>
+</p>
 
 this is a open project for arduino DIY--the heart of iron.
 
